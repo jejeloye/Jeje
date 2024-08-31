@@ -95,6 +95,9 @@ Bachelor of Engineering (BE), Electrical Engineering
 -----
 ## Portfolio
 
+- [Cloud Deployment Models](Cloud_Deployment_Models.md)
+
+
 ### [Project 1: Network Optimization Dashboard](https://github.com/yourusername/project1)
 A dashboard created using Power BI to visualize and optimize network performance KPIs. This project showcases my ability to create interactive and insightful dashboards for telecommunications data.
 

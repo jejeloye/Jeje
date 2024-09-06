@@ -46,4 +46,4 @@ When designing and building reliable systems on Azure, consider the following:
 
 ---
 
-**Reference**: [Microsoft Learn](https://learn.microsoft.com)
+**Reference**: [Microsoft Learn](https://learn.microsoft.com/en-us/azure/reliability/)
